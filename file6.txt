@@ -1,3 +1,4 @@
 test6
 line2infile6
 /git_test2/gittest$
+file6modify
